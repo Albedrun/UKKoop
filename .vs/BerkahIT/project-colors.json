@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "97b163e9-799f-4625-b0a7-56fe7dc1c9fe": {
+      "ProjectGuid": "97b163e9-799f-4625-b0a7-56fe7dc1c9fe",
+      "DisplayName": "BerkahIT",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

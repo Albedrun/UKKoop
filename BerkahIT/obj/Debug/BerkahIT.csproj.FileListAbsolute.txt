@@ -1,0 +1,12 @@
+C:\Users\ASUS\source\repos\BerkahIT\BerkahIT\bin\Debug\BerkahIT.exe.config
+C:\Users\ASUS\source\repos\BerkahIT\BerkahIT\bin\Debug\BerkahIT.exe
+C:\Users\ASUS\source\repos\BerkahIT\BerkahIT\bin\Debug\BerkahIT.pdb
+C:\Users\ASUS\source\repos\BerkahIT\BerkahIT\obj\Debug\BerkahIT.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\BerkahIT\BerkahIT\obj\Debug\BerkahIT.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\source\repos\BerkahIT\BerkahIT\obj\Debug\BerkahIT.Form1.resources
+C:\Users\ASUS\source\repos\BerkahIT\BerkahIT\obj\Debug\BerkahIT.Properties.Resources.resources
+C:\Users\ASUS\source\repos\BerkahIT\BerkahIT\obj\Debug\BerkahIT.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\BerkahIT\BerkahIT\obj\Debug\BerkahIT.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\BerkahIT\BerkahIT\obj\Debug\BerkahIT.exe
+C:\Users\ASUS\source\repos\BerkahIT\BerkahIT\obj\Debug\BerkahIT.pdb
+C:\Users\ASUS\source\repos\BerkahIT\BerkahIT\obj\Debug\BerkahIT.Home.resources
